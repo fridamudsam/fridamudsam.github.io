@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1344.png"
+  avatar           : "profilepicture.png"
   name             : "Frida Mudsam"
   pronouns         : "she/her"  
   bio              : "PhD Student in Information Science"
